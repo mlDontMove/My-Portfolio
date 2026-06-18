@@ -640,7 +640,7 @@ input{
     grid-template-columns: repeat(3, 250px);
     justify-content: center;
     column-gap: 1.8rem;
-    margin-bottom: 3rem;
+    row-gap: 1.8rem;
 }
 .services__content{
     position: relative;
